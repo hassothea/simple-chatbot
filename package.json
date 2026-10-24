@@ -1,0 +1,7 @@
+{
+  "name": "light-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple texting-style chatbot for Vercel",
+  "engines": { "node": ">=18" }
+}
